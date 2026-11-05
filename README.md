@@ -18,6 +18,7 @@ I am learning programming and problem-solving through small Java and C++ console
 | [java-practice-basic](https://github.com/mudasirsoomro2025-ops/java-practice-basic) | Beginner Java examples and practice programs |
 | [cpp-practice-basic](https://github.com/mudasirsoomro2025-ops/cpp-practice-basic) | Beginner C++ examples and practice programs |
 | [oop-four-pillars-practice](https://github.com/mudasirsoomro2025-ops/oop-four-pillars-practice) | C++ and Java examples covering the four pillars of OOP |
+| [dsa-practice-cpp](https://github.com/mudasirsoomro2025-ops/dsa-practice-cpp) | C++ data structures and algorithms practice |
 
 
 ## About Me
