@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Mudasir Ali
 
-<!--
-**mudasirsoomro2025-ops/mudasirsoomro2025-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Student at Sufi Institute of Luari Sharif | BS Information Technology | Beginner Java and C++ Programmer
 
-Here are some ideas to get you started:
+I am learning programming and problem-solving through small Java and C++ console programs. I use Eclipse for Java, Dev-C++ for C++, and GitHub to organize and share my learning projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Java fundamentals: variables, conditions, loops, methods, and classes
+- C++ fundamentals: variables, conditions, loops, arrays, and structures
+- Beginner-friendly console applications and programming exercises
+- Improving my problem-solving skills through practical examples
+- Learning programming step by step with clean and readable code
